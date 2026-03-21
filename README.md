@@ -22,7 +22,7 @@ Estudante de **Engenharia de Computação** na **UNIARA** e profissional de T.I.
 
 
 
-- **[🚦 Sistema de Filas Edubank](https://github.com/LeandroHBitencort/gerenciamento-filas)**: Integração Python + C para gestão de senhas e atendimento real.
+- **[🚦 Sistema de Filas Edubank]([https://github.com/LeandroHBitencort/gerenciamento-filas](https://github.com/LeandroHBitencort/Gerenciamento_Fila.git))**: Integração Python + C para gestão de senhas e atendimento real.
 
 
 
