@@ -34,6 +34,6 @@ Estudante de **Engenharia de Computação** na **UNIARA** e profissional de T.I.
 
 - 📧 [**E-mail**](mailto:lhbitencort@gmail.com)
 
-- 💼 [**Leandro H Birtencort**](https://www.linkedin.com/in/leandro-hernandes-bitencort/
+- 💼 [**Leandro H Birtencort**](https://www.linkedin.com/in/leandro-hernandes-bitencort/)
 
 )
