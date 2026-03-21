@@ -36,4 +36,3 @@ Estudante de **Engenharia de Computação** na **UNIARA** e profissional de T.I.
 
 - 💼 [**Leandro H Birtencort**](https://www.linkedin.com/in/leandro-hernandes-bitencort/)
 
-)
