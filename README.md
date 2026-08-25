@@ -2,7 +2,7 @@
 
 
 
-Estudante de **Engenharia de Computação** na **UNIARA** e profissional de T.I. no Supermercados Ruscito. Tenho interesse em infraestrutura, redes e desenvolvimento, buscando sempre evoluir com projetos práticos.
+Estudante de **Engenharia de Computação** na **UNIARA** e profissional de **Tecnologia da Informação**. Tenho interesse em infraestrutura, redes e desenvolvimento, buscando sempre evoluir com projetos práticos.
 
 
 
@@ -12,7 +12,7 @@ Estudante de **Engenharia de Computação** na **UNIARA** e profissional de T.I.
 
 - **Redes & Infraestrutura:** fundamentos de redes e uso básico de Linux  
 
-- **Interesses:** automação, sistemas e banco de dados  
+- **Interesses:** automação, sistemas, banco de dados e desenvolvimento 
 
 
 
